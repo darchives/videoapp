@@ -1,0 +1,15 @@
+{
+  "name": "videoapp",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0"
+  },
+  "version": "1.0.0",
+  "description": "A video uploading and sorting app",
+  "main": "index.js",
+  "author": "Ras",
+  "license": "ISC"
+}
